@@ -1,0 +1,22 @@
+{
+  "name": "pat-mern-portfolio",
+  "version": "1.0.0",
+  "description": "portfolio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "pat peou",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "sophatpeou"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.11.1"
+  }
+}
